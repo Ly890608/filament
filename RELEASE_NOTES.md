@@ -14,6 +14,7 @@ A new header is inserted each time a *tag* is created.
 - Fixed a normals issue when skinning without a normal map or anisotropy.
 - Fixed an issue where translucent views couldn't be used with post-processing.
 - Always use higher quality 3-bands SH for indirect lighting, even on mobile.
+- Added support for solid and thin layer cubemap and screen-space refraction.
 
 ## v1.4.2
 
